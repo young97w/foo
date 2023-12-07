@@ -8,3 +8,7 @@ func Foo1() string {
 func Bar() string {
 	return "bar3"
 }
+
+func F() string {
+	return "fourth"
+}
