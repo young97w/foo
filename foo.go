@@ -12,3 +12,7 @@ func Bar() string {
 func F() string {
 	return "fourth"
 }
+
+func N() string {
+	return "nnnn"
+}
