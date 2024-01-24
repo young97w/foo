@@ -3,5 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("This is main branch")
+	a := 1
+	a++
+	fmt.Println(a)
 }
